@@ -26,7 +26,7 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Soy Lucas Castillo <br />
+            Transforming Ideas <br /> Into {""}{" "}
             <span className="text-accent">Frontend Developer</span>
           </motion.h1>
           {/* Subtitle */}
