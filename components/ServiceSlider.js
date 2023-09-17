@@ -73,7 +73,7 @@ const ServiceSlider = () => {
             <div className="col-span-12 pl-14 md:pl-0">{item.description}</div>
             {/* Arrow */}
             <div className="text-3xl mt-8 w-fit -rotate-45 col-span-12 pl-14 md:pl-0">
-              <RxArrowRight />
+              <RxArrowRight className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300" />
             </div>
           </div>
         </SwiperSlide>
