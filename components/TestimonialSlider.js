@@ -67,7 +67,7 @@ const serviceData = [
 import { Navigation, Pagination } from "swiper";
 
 //Icons
-import { FaQuoteLeft } from "react-icons/Fa";
+import { FaQuoteLeft } from "react-icons/fa";
 
 //Framer Motion
 import { motion } from "framer-motion";
